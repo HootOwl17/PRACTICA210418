@@ -1,6 +1,6 @@
 # PRACTICA210418
 
-Practica de esfera cayendo para que repote (No completado... Aún)
+Practica de esfera cayendo para que repote (Completado)
 
 # Codigo Caida
 Archivo de aplicacion en escritorio
