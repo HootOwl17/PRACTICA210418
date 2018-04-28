@@ -6,9 +6,9 @@ Practica de esfera cayendo para que repote (No completado... Aún)
 Archivo de aplicacion en escritorio
 
 # Sketch_180421b
-Archivo de aplicacion para Navegador
+Archivo de aplicación para Navegador
 
 # Sketch_180428d
-Archivo de aplicacion corregido y aumentado alv
+Archivo de aplicación corregido y aumentado alv
 
 # [Agregado](https://goo.gl/SsAhv)
